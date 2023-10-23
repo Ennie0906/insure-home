@@ -1,0 +1,17 @@
+
+
+/* Background Color */
+.bg-color{
+    background-color: hsl(256, 26%, 20%);
+}
+
+
+/* Text Colors */
+.text-color{
+    color:#fff
+}
+
+.img-size{
+   width: 100vw;
+}
+
